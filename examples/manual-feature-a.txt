@@ -1,0 +1,1 @@
+Pierwszy commit feature do ręcznego testu.
