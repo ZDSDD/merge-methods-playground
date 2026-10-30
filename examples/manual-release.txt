@@ -1,0 +1,1 @@
+Sztuczna zmiana do testu merge commit na main.
