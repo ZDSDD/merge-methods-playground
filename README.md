@@ -2,6 +2,8 @@
 
 Publiczne repo testowe z wyłącznie sztucznymi przykładami.
 
+[Dokładna konfiguracja: trzy rulesety, istotne opcje i wyjątek synchronizacyjny](docs/merge-methods-configuration.md).
+
 ## Aktywne ustawienia
 
 - Globalnie: merge commit i squash włączone; rebase wyłączony.
