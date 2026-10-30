@@ -1,0 +1,1 @@
+Drugi commit tego samego feature do testu squash.
